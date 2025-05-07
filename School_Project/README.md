@@ -68,8 +68,4 @@ License
 This project is for educational purposes only. It is not licensed for commercial use
 
 
----
 
-You can copy and save this as `README.md` in your project root. GitHub will automatically render it nicely.
-
-Would you like me to generate a downloadable `.md` file for this?
